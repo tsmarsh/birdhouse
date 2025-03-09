@@ -1,0 +1,16 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "New set 1": {
+            "$fn": "100",
+            "depth": "100",
+            "door_od": "32",
+            "drain_od": "4",
+            "height": "150",
+            "pool": "true",
+            "roof_thickness_factor": "0.074999999999999997",
+            "wall_thickness": "3",
+            "width": "100"
+        }
+    }
+}
